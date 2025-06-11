@@ -1,3 +1,3 @@
-#[Live Demo](https://alfredsa-prog-dev.github.io/My-world/)
+[Live Demo](https://alfredsa-prog-dev.github.io/My-world/)
 
 
